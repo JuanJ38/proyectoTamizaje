@@ -98,6 +98,9 @@ Clasifica casos de violencia usando un kernel lineal, con validación cruzada y 
 | SVM                  | Clasificación  | Accuracy CV = 0.82    |
 
 ---
+Conclusiones 
+
+Los modelos permiten identificar patrones críticos en la salud pública peruana, demostrando que el Árbol de Decisión es la herramienta más efectiva para la detección rápida de situaciones de violencia debido a su alta interpretabilidad.
 
 ## Autor
 Juan Jose H.
